@@ -9,3 +9,4 @@ Then  Login page should be dislayed
 When  Login credentials are entered
 And  login button is clicked
 Then  Home page should be displayed
+Then home page should be displayed
